@@ -3,8 +3,8 @@ title: "Guru Network"
 remote_theme: just-the-docs/just-the-docs
 # color_scheme: "dark"
 description: Documentation website of Guru Network.
-baseurl: "/docs"
-url: "https://ftm.guru"
+baseurl: "/gurudocs"
+url: "https://rnz3.github.io"
 permalink: pretty
 search_enabled: true
 search.heading_level: 20
