@@ -4,7 +4,7 @@ title: ELITE, Our Token
 grand_parent:
 parent:
 has_children: true
-nav_order: 3
+nav_order: 
 
 ---
 

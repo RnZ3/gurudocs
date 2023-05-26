@@ -4,7 +4,7 @@ title: 💼 Our Offerings
 grand_parent:
 parent: Getting Started
 has_children:
-nav_order: 2
+nav_order: 1
 
 ---
 

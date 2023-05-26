@@ -4,7 +4,7 @@ title: Launch
 grand_parent:
 parent: ELITE, Our Token
 has_children:
-nav_order: 1
+nav_order: 
 
 ---
 
